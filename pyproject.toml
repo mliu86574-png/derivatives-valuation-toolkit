@@ -9,7 +9,7 @@ description = "Derivatives valuation toolkit: options, forwards, FX forwards and
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Michelle Liu" }]
+authors = [{ name = "garlicguava" }]
 dependencies = ["numpy>=1.24", "scipy>=1.10"]
 
 [project.optional-dependencies]
