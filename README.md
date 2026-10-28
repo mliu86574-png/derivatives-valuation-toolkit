@@ -34,7 +34,7 @@ A few results from the notebook:
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/derivatives-valuation-toolkit.git
+git clone https://github.com/mliu86574-png/derivatives-valuation-toolkit.git
 cd derivatives-valuation-toolkit
 pip install -e ".[dev]"
 pytest
